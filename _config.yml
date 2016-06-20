@@ -1,0 +1,28 @@
+name: MoCo
+favicon: null
+layout_spectrum: 0.4448342495597899
+typography_spectrum: 0.36863477784208953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.37391177960671484
+  lightness: 0.5430708630010486
+  saturation: 0.48013005196116865
+  rhythmicContrast: 0.6733040139079094
+purpose: []
