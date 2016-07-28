@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Motion Coaching]]></title>
         <description><![CDATA[Motion Coaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 10:29:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 08:16:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Motion Coaching]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1421df37-f6d1-45e8-82da-eea6cd45deaf.jpg">]]></description>
-            <link>undefinedmotion-coaching/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6debc14-9c90-40d4-ad0e-0952fc799960.jpg">]]></description>
+            <link>https://thegrid.ai/moco/motion-coaching/index.html</link>
             <guid isPermaLink="false">65747e7e-e2cf-4ed8-a612-917c14cfebb4</guid>
-            <pubDate>Mon, 20 Jun 2016 10:28:31 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 08:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
