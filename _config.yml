@@ -1,6 +1,6 @@
-name: MoCo
+name: '#mocovation'
 favicon: null
-layout_spectrum: 0.2192
+layout_spectrum: 0.49814
 typography_spectrum: 0.18375
 title: Motion Coaching
 collections:
@@ -34,8 +34,8 @@ color:
     - '#1e93d1'
     - '#949599'
     - '#000000'
-  brandStrength: 0.3125
+  brandStrength: 0.375
   lightness: 0.5430708630010486
   saturation: 0.4801300519611686
-  rhythmicContrast: 0.6733040139079094
+  rhythmicContrast: 0.75
 purpose: []
