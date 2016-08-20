@@ -1,8 +1,30 @@
-name: '#mocovation'
-favicon: null
-layout_spectrum: 0.49814
 typography_spectrum: 0.49938
-title: '#mocovation'
+color:
+  brandColors:
+    - '#ffffff'
+    - '#4e4e56'
+    - '#1e93d1'
+    - '#949599'
+    - '#000000'
+  brandStrength: 0.375
+  lightness: 0.5430708630010486
+  saturation: 0.4801300519611686
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49814
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: '#mocovation'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#4e4e56'
-    - '#1e93d1'
-    - '#949599'
-    - '#000000'
-  brandStrength: 0.375
-  lightness: 0.5430708630010486
-  saturation: 0.4801300519611686
-  rhythmicContrast: 0.75
+title: '#mocovation'
+description: individual & team development
 purpose: []
