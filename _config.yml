@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Motion Coaching
+    id: 65747e7e-e2cf-4ed8-a612-917c14cfebb4
+    type: content
 favicon: null
 collections:
   - index:
