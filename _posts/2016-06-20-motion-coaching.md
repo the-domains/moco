@@ -13,15 +13,15 @@ description: >-
   with teams from a range of business sectors including international companies,
   local businesses, schools and charities. Participants have included graduates,
   senior executives and those on the fringes of employment. 
-datePublished: '2016-07-28T08:16:23.700Z'
-dateModified: '2016-07-28T08:15:13.705Z'
+datePublished: '2016-08-24T15:24:38.380Z'
+dateModified: '2016-08-24T15:24:37.483Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-motion-coaching.md
 via: {}
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: motion-coaching/index.html
 _type: Article
 
