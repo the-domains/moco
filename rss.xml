@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Motion Coaching]]></title>
-        <description><![CDATA[Motion Coaching]]></description>
+        <title><![CDATA[#mocovation]]></title>
+        <description><![CDATA[#mocovation]]></description>
         <link>https://thegrid.ai/moco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 15:24:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/moco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Motion Coaching]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6debc14-9c90-40d4-ad0e-0952fc799960.jpg">]]></description>
             <link>https://thegrid.ai/moco/motion-coaching/index.html</link>
             <guid isPermaLink="false">65747e7e-e2cf-4ed8-a612-917c14cfebb4</guid>
-            <pubDate>Thu, 28 Jul 2016 08:16:23 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2016 15:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
